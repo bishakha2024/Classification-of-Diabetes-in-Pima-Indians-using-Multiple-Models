@@ -1,0 +1,2 @@
+# Classification-of-Diabetes-in-Pima-Indians-using-Multiple-Models
+Diabetes is a long-term condition impacting countless people around the globe. Identifying issues early and using data analysis can assist in avoiding complications and optimizing treatment management. The aim of this research is to develop a precise prediction model that evaluates whether an individual has diabetes based on various health factors.
