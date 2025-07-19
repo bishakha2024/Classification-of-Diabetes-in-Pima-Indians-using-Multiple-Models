@@ -62,11 +62,3 @@ As per the project brief:
 - Performance of Decision Tree decreased significantly after feature removal
 
 ---
-
-## 🧾 Deliverables
-
-- ✅ Final Report: [Report.pdf](./reports/Report.pdf)
-- ✅ Jupyter Notebooks: [`/notebooks`](./notebooks)
-- ✅ Presentation Slides: [presentation.pptx](./reports/presentation.pptx) 
-- ✅ Python Scripts: [`/src`](./src)
-- ✅ `README.md`: This file
